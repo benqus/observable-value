@@ -1,0 +1,11 @@
+{
+  "name": "observable-value",
+  "version": "0.1.0",
+  "private": true,
+  "main": "observable/index.ts",
+  "dependencies": {},
+  "author": {
+    "name": "Bence Kormos",
+    "url": "https://www.linkedin.com/in/benqus/"
+  }
+}
